@@ -162,6 +162,3 @@ Log tutma özelliği, geliştiricilere sistemdeki etkinlikleri inceleme ve gerek
 - **LibraryDatabase**: Veritabanı işlemlerini yönetmek için kullanılan sınıf.
 - **log_action**: Yapılan işlemleri kaydetmek için kullanılır. Bu fonksiyon, her işlem sonrası log dosyasına kayıt yapar.
 
-## Geliştiriciler
-
-- [Adınız](https://github.com/vahap-18)
